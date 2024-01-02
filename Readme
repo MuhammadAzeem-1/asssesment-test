@@ -1,6 +1,10 @@
 -> FrontEnd
+============
+
 
 ------ React ------
+-------------------
+
 
 --Main dependencies
 React Router Dom
@@ -10,17 +14,23 @@ axios
 
 -- Run FrontEnd
 
-Navigate to assesment directory in terminal then
+1) Navigate to assesment directory in terminal then
 
-use " cd client" to go in client directory.
+2) use " cd client" to go in client directory.
 
-Run "npm install" to install the required dependencies.
+3) Run "npm install" to install the required dependencies.
 
 ( No need to create the .env file)
 
+============
 -> Backend
+============
+
+
 
 ------ Node.js ------
+---------------------
+
 
 Frameword : Express
 Database: MongoDb
@@ -34,13 +44,13 @@ node-corn
 
 -- Run Backend
 
-Navigate to assesment directory in terminal then
+1) Navigate to assesment directory in terminal then
 
-use " cd server" to go in client directory.
+2) use " cd server" to go in client directory.
 
-Run "npm install" to install the required dependencies.
+3) Run "npm install" to install the required dependencies.
 
-For database connection, create a .env file in root directory and enter following info...
+4) For database connection, create a .env file in root directory and enter following info...
 
 <!-- CONNECTION_URL= mongodb+srv://assessment:assesment123@azeemcluster.gitqx1h.mongodb.net/?retryWrites=true&w=majority
 PORT=5000 -->
@@ -48,3 +58,12 @@ PORT=5000 -->
 ( Remove the comments)
 
 At last, run command like "node index.js" or "node --watch index.js"
+
+Feel free to contact me If you find any issue I will help You Out
+
+
+
+
+
+
+
